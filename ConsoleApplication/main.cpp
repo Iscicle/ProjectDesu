@@ -7,4 +7,5 @@ int main(int argc, char** argv)
 		renderWindow.clear();
 		renderWindow.display();
 	}
+	//nigga plz
 }
